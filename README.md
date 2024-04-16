@@ -1,6 +1,4 @@
 # Layout Dia
-
-## Project Overview
 This project is a simple landing page built using HTML, SCSS, and JavaScript. It serves to demonstrate fundamental web development principles and can act as an educational resource for understanding and improving skills in frontend development.
 
 - [DEMO LINK](https://hyper2307.github.io/landing-page/)
