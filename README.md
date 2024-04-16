@@ -1,11 +1,10 @@
-- [DEMO LINK](https://hyper2307.github.io/landing-page/)
-
-Here's an example structure for a README.md file for your project that uses HTML, SCSS, and JavaScript to create a basic landing page. This README highlights the essential aspects of your project, makes instructions accessible, and invites collaboration:
-
 # Layout Dia
 
 ## Project Overview
 This project is a simple landing page built using HTML, SCSS, and JavaScript. It serves to demonstrate fundamental web development principles and can act as an educational resource for understanding and improving skills in frontend development.
+
+- [DEMO LINK](https://hyper2307.github.io/landing-page/)
+
 
 ## Installation Instructions
 Follow these steps to set up the project on your local machine:
@@ -21,7 +20,7 @@ Follow these steps to set up the project on your local machine:
 
 3. **Navigate to the project directory:**
    ```bash
-   cd yourprojectname
+   cd phone-catalog
    ```
 
 4. **Install dependencies:**
